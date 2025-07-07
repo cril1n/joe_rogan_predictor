@@ -1,0 +1,18 @@
+Africa =
+America =
+America/Europa -> Europa
+Asia =
+Australia =
+Australia/Oceania -> Australia
+Europa =
+Europa / America -> Europa
+Europa/America -> Europa
+Europea -> Europa
+Nord America -> America
+Oceania -> Asia
+-------------------
+Africa
+America
+Europa
+Asia
+Australia

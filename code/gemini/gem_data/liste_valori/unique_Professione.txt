@@ -1,0 +1,799 @@
+Academia/Educazione
+Academia/Ricerca
+Academia/Scienza
+Academia/Scrittore
+Academia/Scrittura
+Academia/Storia
+Accademia/Attivismo
+Accademia/Psicologia
+Accademia/Ricerca
+Accademia/Scienze Sociali
+Accademia/Scrittura
+Accademico/Autore
+Accademico/Ricercatore
+Accademico/Scrittore
+Aerospaziale/Militare
+Agricoltura/Allevamento
+Agricoltura/Conservazione
+Agricoltura/Sostenibilità
+Ambiente/Natura
+Analista Sportivo / Commentatore
+Arte/Comunicazione
+Arte/Creatività
+Arte/Cultura
+Arte/Design
+Arte/Fotografia
+Arte/Giornalismo
+Arte/Imprenditoria
+Arte/Intrattenimento
+Arte/Musica
+Arte/Spettacolo
+Arti Marziali / Artista
+Arti Marziali / Fitness
+Arti Marziali / Sport
+Arti Marziali / Sport da Combattimento
+Arti Marziali/Sport
+Arti Marziali/Sport da Combattimento
+Artigianato
+Artista/Creatore
+Arts/Entertainment
+Arts/Filmmaking
+Atleta / Sport da Combattimento
+Atleta/Sportivo
+Attivismo / Ricerca Accademica
+Attivismo/Arte
+Attivismo/Benessere Animale
+Attivismo/Diritti Umani
+Attivismo/Giustizia Sociale
+Attivismo/Intrattenimento
+Attivismo/Media
+Attivismo/Politica
+Attivismo/Politica Pubblica
+Attivismo/Riforma Giustizia
+Attivismo/Scrittura
+Attivismo/Sociale
+Attivista
+Attivista/Cineasta
+Attivista/Commentatore Politico
+Attivista/Scrittrice
+Automotive
+Automotive / Artigianato
+Automotive / Business
+Automotive / Collezionismo
+Automotive/Design
+Automotive/Ingegneria
+Automotive/Intrattenimento
+Automotive/Meccanica
+Autore / Ambientalista
+Autore / Comunicatore
+Autore / Critico Sociale
+Autore/Commentatore
+Autore/Creatore
+Autore/Filosofo
+Autore/Giornalista
+Autore/Intellettuale
+Autore/Media
+Autore/Ricercatore
+Aviazione / Sport
+Avventura / Media
+Avventura/Esplorazione
+Business/Coaching
+Business/Finanza
+Business/Imprenditoria
+Business/Sport
+Caccia & Conservazione
+Caccia / Intrattenimento Outdoor
+Caccia e Conservazione
+Caccia/Outdoor
+Cinema/Arte
+Cinema/Documentaristica
+Cinema/Effetti Speciali
+Cinema/Entertainment
+Cinema/Fotografia
+Cinema/Giornalismo
+Cinema/Intrattenimento
+Cinema/Produzione Cinematografica
+Cinema/Spettacolo
+Cinema/TV
+Comedy/Entertainment
+Comico/Intrattenimento
+Comico/Intrattenitore
+Commedia
+Commedia/Intrattenimento
+Commedia/Media
+Commedia/Recitazione
+Commedia/Spettacolo
+Commentatore Politico/Autore
+Commentatore/Autore
+Conservazione/Documentaristica
+Conservazione/Gestione Fauna Selvatica
+Content Creator
+Content Creator / Giornalismo Investigativo
+Content Creator/Atleta
+Content Creator/Commentatore
+Creator/YouTuber
+Crescita Personale
+Crescita Personale / Atleta
+Crescita Personale / Benessere
+Crescita Personale / Educazione
+Crescita Personale / Motivazione
+Crescita Personale/Filosofia
+Crescita Personale/Imprenditore
+Cucina/Gastronomia
+Cucina/Intrattenimento
+Cucina/Ristorazione
+Cultura/Ricerca
+Diritto / Accademia
+Diritto/Attivismo
+Diritto/Governo
+Diritto/Scrittura
+Editoria/Giornalismo
+Educazione/Intrattenimento
+Educazione/Storia
+Entertainment
+Entertainment/Arte
+Entertainment/Business
+Entertainment/Cinema
+Entertainment/Comedy
+Entertainment/Commedia
+Entertainment/Imprenditoria
+Entertainment/Media
+Entertainment/Spettacolo
+Esplorazione/Avventura
+Esplorazione/Natura
+Ex-Criminale / Attivista
+Ex-Militare/Intelligence
+Filosofia/Scienza
+Filosofia/Scienze Sociali
+Filosofo/Accademico
+Finanza/Investimenti
+Fitness/Allenamento
+Fitness/Benessere
+Fitness/Coaching
+Fitness/Imprenditoria
+Fitness/Nutrizione
+Fitness/Salute
+Fitness/Sport
+Forze dell'Ordine / Consulenza
+Forze dell'Ordine / Riforma Giustizia
+Forze dell'Ordine/Attivismo
+Forze dell'Ordine/Militare
+Forze dell'Ordine/Sicurezza
+Futurista / Autore
+Gaming/Esports
+Gaming/Marketing
+Geopolitica/Analisi Internazionale
+Gestione del Territorio/Conservazione
+Giocatore di Poker Professionista
+Giornalismo/Attivismo
+Giornalismo/Automobilismo
+Giornalismo/Autore
+Giornalismo/Commentatore
+Giornalismo/Editoria
+Giornalismo/Media
+Giornalismo/Politica
+Giornalismo/Scrittura
+Government/Intelligence
+Governo / Difesa
+Governo/Militare
+Health & Wellness
+Imprenditore / Atleta
+Imprenditore / Autore
+Imprenditore / Esploratore
+Imprenditore / Fitness & Salute
+Imprenditore / Minatore
+Imprenditore / Real Estate & Aerospace
+Imprenditore / Tech
+Imprenditore/Autore
+Imprenditore/Media
+Imprenditoria
+Imprenditoria / Business
+Imprenditoria / Fitness
+Imprenditoria / Immobiliare
+Imprenditoria / Ristorazione
+Imprenditoria Sociale / Non-Profit
+Imprenditoria/Business
+Imprenditoria/Crescita Personale
+Imprenditoria/Fitness
+Imprenditoria/Innovazione
+Imprenditoria/Investimenti
+Imprenditoria/Marketing
+Imprenditoria/Musica
+Imprenditoria/Outdoor
+Industria del Caffè
+Intelligence/Militare
+Intelligence/Sicurezza Nazionale
+Intrattenimento
+Intrattenimento / Commedia
+Intrattenimento per adulti
+Intrattenimento/Arte
+Intrattenimento/Attivismo
+Intrattenimento/Attore
+Intrattenimento/Cinema
+Intrattenimento/Comicità
+Intrattenimento/Commedia
+Intrattenimento/Commentatore
+Intrattenimento/Imprenditore
+Intrattenimento/Imprenditoria
+Intrattenimento/Lifestyle
+Intrattenimento/Media
+Intrattenimento/Reality TV
+Intrattenimento/Servizi Specializzati
+Intrattenimento/Spettacolo
+Intrattenimento/Sport
+Istruzione/Filosofia
+Leadership/Militare
+Legal/Policy
+Legale/Giustizia
+Legge/Giustizia
+Letteratura/Scrittura
+Marketing/Business
+Media & Giustizia Sociale
+Media / Intrattenimento
+Media / Outdoor
+Media/Autore
+Media/Cinema
+Media/Commentary
+Media/Commentatore
+Media/Commentatore Politico
+Media/Content Creator
+Media/Cucina
+Media/Documentaristica
+Media/Editoria
+Media/Educazione
+Media/Entertainment
+Media/Esperto di Sopravvivenza
+Media/Filosofia
+Media/Giornalismo
+Media/Imprenditoria
+Media/Intrattenimento
+Media/Outdoor
+Media/Podcast
+Media/Podcaster
+Media/Podcasting
+Media/Politica
+Media/Produzione
+Media/Psicologia
+Media/Spettacolo
+Media/Sport
+Medicina alternativa/Ricerca
+Medicina/Giornalismo
+Medicina/Salute
+Medicina/Sanità
+Medico/Salute Mentale
+Militare / Artista
+Militare / Imprenditoria
+Militare / Sicurezza
+Militare/Attivismo
+Militare/Autore
+Militare/Aviazione
+Militare/Combattimento
+Militare/Media
+Militare/Sicurezza
+Militare/Veterano
+Musica
+Musica/Arte
+Musica/Attivismo
+Musica/Filantropia
+Musica/Intrattenimento
+Musica/Moda
+Musica/Produzione
+Musica/Produzione Musicale
+Musica/Spettacolo
+Natura/Conservazione
+Outdoor/Adventure
+Outdoor/Caccia
+Outdoor/Conservazione
+Outdoor/Content Creator
+Outdoor/Natura
+Podcaster/Autore
+Podcaster/Storico
+Politica/Affari
+Politica/Attivismo
+Politica/Business
+Politica/Commentatore
+Politica/Giornalismo
+Politica/Governo
+Politica/Imprenditoria
+Politica/Intrattenimento
+Politica/Legge
+Politica/Media
+Politica/Salute Pubblica
+Politica/Servizio Pubblico
+Politico/Attivista
+Produzione Cinematografica/Televisiva
+Psicologia / Autore
+Psicologia/Autore
+Psicologia/Comportamento Umano
+Religione / Apologetica
+Ricerca & Sviluppo
+Ricerca Scientifica/Salute
+Ricerca Storica/Ingegneria
+Ricerca/Accademia
+Ricerca/Attivismo
+Ricerca/Autore
+Ricerca/Crescita Personale
+Ricerca/Disinformazione
+Ricerca/Scienza
+Ricercatore / Content Creator
+Ricercatore / Creatore di Contenuti
+Ricercatore / Personaggio TV
+Ricercatore/Autore (Scienze Alternative/Parapsicologia)
+Ricercatore/Scrittore
+Ristorazione/Cucina
+Ristorazione/Imprenditoria
+Ristorazione/Ospitalità
+Salute & Benessere
+Salute & Benessere / Imprenditoria
+Salute & Benessere / Media
+Salute & Fitness / Imprenditore
+Salute Mentale/Psicologia
+Salute e Benessere
+Salute e Media
+Salute e Nutrizione
+Salute/Benessere
+Salute/Medicina
+Salute/Nutrizione
+Sanità/Medicina
+Science/Tech & Finance
+Scienza/Accademia
+Scienza/Comunicazione
+Scienza/Conservazione
+Scienza/Divulgazione
+Scienza/Editoria
+Scienza/Educazione
+Scienza/Giornalismo
+Scienza/Ingegneria
+Scienza/Media
+Scienza/Medicina
+Scienza/Natura
+Scienza/Ricerca
+Scienza/Salute
+Scienza/Spiritualità
+Scienze Motorie / Nutrizione
+Scienziato/Ricercatore
+Scrittore / Esperto di Robotica
+Scrittore / Oratore
+Scrittore/Autore
+Scrittore/Editore
+Scrittore/Giornalista
+Scrittore/Media
+Scrittore/Storico
+Scrittura/Editoria
+Scrittura/Giornalismo
+Sicurezza/Difesa
+Sicurezza/Intelligence
+Sicurezza/Protezione
+Spettacolo/Intrattenimento
+Spettacolo/Media
+Spiritualità/Benessere
+Sport
+Sport / Arti Marziali
+Sport / Fitness
+Sport / Intrattenimento
+Sport/Arti Marziali
+Sport/Arti Marziali Miste
+Sport/Atleta
+Sport/Atleti
+Sport/Attivismo
+Sport/Avventura
+Sport/Coaching
+Sport/Combattimento
+Sport/Entertainment
+Sport/Fitness
+Sport/Formazione
+Sport/Giochi
+Sport/Imprenditore
+Sport/Intrattenimento
+Sport/Media
+Sport/Outdoor
+Sport/Politica
+Sport/Regolamentazione
+Sports/Combattimento
+Survival/Avventura
+Survival/Intrattenimento
+Tech/IT
+Tech/Imprenditoria & Autore/Speaker
+Ufologia/Scienza
+Videogiochi
+
+{
+  "Academia/Educazione": "ACCADEMIA E RICERCA",
+  "Academia/Ricerca": "ACCADEMIA E RICERCA",
+  "Academia/Scienza": "ACCADEMIA E RICERCA",
+  "Academia/Scrittore": "EDITORIA, SCRITTURA E CONTENUTI",
+  "Academia/Scrittura": "EDITORIA, SCRITTURA E CONTENUTI",
+  "Academia/Storia": "ACCADEMIA E RICERCA",
+  "Accademia/Attivismo": "POLITICA, DIRITTO E ATTIVISMO",
+  "Accademia/Psicologia": "ACCADEMIA E RICERCA",
+  "Accademia/Ricerca": "ACCADEMIA E RICERCA",
+  "Accademia/Scienze Sociali": "ACCADEMIA E RICERCA",
+  "Accademia/Scrittura": "EDITORIA, SCRITTURA E CONTENUTI",
+  "Accademico/Autore": "EDITORIA, SCRITTURA E CONTENUTI",
+  "Accademico/Ricercatore": "ACCADEMIA E RICERCA",
+  "Accademico/Scrittore": "EDITORIA, SCRITTURA E CONTENUTI",
+  "Aerospaziale/Militare": "SCIENZA, TECNOLOGIA E INGEGNERIA",
+  "Agricoltura/Allevamento": "ALTRI SETTORI SPECIFICI",
+  "Agricoltura/Conservazione": "ALTRI SETTORI SPECIFICI",
+  "Agricoltura/Sostenibilità": "ALTRI SETTORI SPECIFICI",
+  "Ambiente/Natura": "ALTRI SETTORI SPECIFICI",
+  "Analista Sportivo / Commentatore": "SPORT, ARTI MARZIALI E ATTIVITÀ OUTDOOR",
+  "Arte/Comunicazione": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Arte/Creatività": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Arte/Cultura": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Arte/Design": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Arte/Fotografia": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Arte/Giornalismo": "EDITORIA, SCRITTURA E CONTENUTI",
+  "Arte/Imprenditoria": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Arte/Intrattenimento": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Arte/Musica": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Arte/Spettacolo": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Arti Marziali / Artista": "SPORT, ARTI MARZIALI E ATTIVITÀ OUTDOOR",
+  "Arti Marziali / Fitness": "SPORT, ARTI MARZIALI E ATTIVITÀ OUTDOOR",
+  "Arti Marziali / Sport": "SPORT, ARTI MARZIALI E ATTIVITÀ OUTDOOR",
+  "Arti Marziali / Sport da Combattimento": "SPORT, ARTI MARZIALI E ATTIVITÀ OUTDOOR",
+  "Arti Marziali/Sport": "SPORT, ARTI MARZIALI E ATTIVITÀ OUTDOOR",
+  "Arti Marziali/Sport da Combattimento": "SPORT, ARTI MARZIALI E ATTIVITÀ OUTDOOR",
+  "Artigianato": "ALTRI SETTORI SPECIFICI",
+  "Artista/Creatore": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Arts/Entertainment": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Arts/Filmmaking": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Atleta / Sport da Combattimento": "SPORT, ARTI MARZIALI E ATTIVITÀ OUTDOOR",
+  "Atleta/Sportivo": "SPORT, ARTI MARZIALI E ATTIVITÀ OUTDOOR",
+  "Attivismo / Ricerca Accademica": "POLITICA, DIRITTO E ATTIVISMO",
+  "Attivismo/Arte": "POLITICA, DIRITTO E ATTIVISMO",
+  "Attivismo/Benessere Animale": "POLITICA, DIRITTO E ATTIVISMO",
+  "Attivismo/Diritti Umani": "POLITICA, DIRITTO E ATTIVISMO",
+  "Attivismo/Giustizia Sociale": "POLITICA, DIRITTO E ATTIVISMO",
+  "Attivismo/Intrattenimento": "POLITICA, DIRITTO E ATTIVISMO",
+  "Attivismo/Media": "POLITICA, DIRITTO E ATTIVISMO",
+  "Attivismo/Politica": "POLITICA, DIRITTO E ATTIVISMO",
+  "Attivismo/Politica Pubblica": "POLITICA, DIRITTO E ATTIVISMO",
+  "Attivismo/Riforma Giustizia": "POLITICA, DIRITTO E ATTIVISMO",
+  "Attivismo/Scrittura": "EDITORIA, SCRITTURA E CONTENUTI",
+  "Attivismo/Sociale": "POLITICA, DIRITTO E ATTIVISMO",
+  "Attivista": "POLITICA, DIRITTO E ATTIVISMO",
+  "Attivista/Cineasta": "POLITICA, DIRITTO E ATTIVISMO",
+  "Attivista/Commentatore Politico": "POLITICA, DIRITTO E ATTIVISMO",
+  "Attivista/Scrittrice": "POLITICA, DIRITTO E ATTIVISMO",
+  "Automotive": "ALTRI SETTORI SPECIFICI",
+  "Automotive / Artigianato": "ALTRI SETTORI SPECIFICI",
+  "Automotive / Business": "BUSINESS, IMPRENDITORIA E FINANZA",
+  "Automotive / Collezionismo": "ALTRI SETTORI SPECIFICI",
+  "Automotive/Design": "ALTRI SETTORI SPECIFICI",
+  "Automotive/Ingegneria": "SCIENZA, TECNOLOGIA E INGEGNERIA",
+  "Automotive/Intrattenimento": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Automotive/Meccanica": "ALTRI SETTORI SPECIFICI",
+  "Autore / Ambientalista": "EDITORIA, SCRITTURA E CONTENUTI",
+  "Autore / Comunicatore": "EDITORIA, SCRITTURA E CONTENUTI",
+  "Autore / Critico Sociale": "EDITORIA, SCRITTURA E CONTENUTI",
+  "Autore/Commentatore": "EDITORIA, SCRITTURA E CONTENUTI",
+  "Autore/Creatore": "EDITORIA, SCRITTURA E CONTENUTI",
+  "Autore/Filosofo": "EDITORIA, SCRITTURA E CONTENUTI",
+  "Autore/Giornalista": "EDITORIA, SCRITTURA E CONTENUTI",
+  "Autore/Intellettuale": "EDITORIA, SCRITTURA E CONTENUTI",
+  "Autore/Media": "EDITORIA, SCRITTURA E CONTENUTI",
+  "Autore/Ricercatore": "EDITORIA, SCRITTURA E CONTENUTI",
+  "Aviazione / Sport": "SPORT, ARTI MARZIALI E ATTIVITÀ OUTDOOR",
+  "Avventura / Media": "SPORT, ARTI MARZIALI E ATTIVITÀ OUTDOOR",
+  "Avventura/Esplorazione": "SPORT, ARTI MARZIALI E ATTIVITÀ OUTDOOR",
+  "Business/Coaching": "BUSINESS, IMPRENDITORIA E FINANZA",
+  "Business/Finanza": "BUSINESS, IMPRENDITORIA E FINANZA",
+  "Business/Imprenditoria": "BUSINESS, IMPRENDITORIA E FINANZA",
+  "Business/Sport": "BUSINESS, IMPRENDITORIA E FINANZA",
+  "Caccia & Conservazione": "SPORT, ARTI MARZIALI E ATTIVITÀ OUTDOOR",
+  "Caccia / Intrattenimento Outdoor": "SPORT, ARTI MARZIALI E ATTIVITÀ OUTDOOR",
+  "Caccia e Conservazione": "SPORT, ARTI MARZIALI E ATTIVITÀ OUTDOOR",
+  "Caccia/Outdoor": "SPORT, ARTI MARZIALI E ATTIVITÀ OUTDOOR",
+  "Cinema/Arte": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Cinema/Documentaristica": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Cinema/Effetti Speciali": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Cinema/Entertainment": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Cinema/Fotografia": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Cinema/Giornalismo": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Cinema/Intrattenimento": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Cinema/Produzione Cinematografica": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Cinema/Spettacolo": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Cinema/TV": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Comedy/Entertainment": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Comico/Intrattenimento": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Comico/Intrattenitore": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Commedia": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Commedia/Intrattenimento": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Commedia/Media": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Commedia/Recitazione": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Commedia/Spettacolo": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Commentatore Politico/Autore": "EDITORIA, SCRITTURA E CONTENUTI",
+  "Commentatore/Autore": "EDITORIA, SCRITTURA E CONTENUTI",
+  "Conservazione/Documentaristica": "ALTRI SETTORI SPECIFICI",
+  "Conservazione/Gestione Fauna Selvatica": "ALTRI SETTORI SPECIFICI",
+  "Content Creator": "EDITORIA, SCRITTURA E CONTENUTI",
+  "Content Creator / Giornalismo Investigativo": "EDITORIA, SCRITTURA E CONTENUTI",
+  "Content Creator/Atleta": "SPORT, ARTI MARZIALI E ATTIVITÀ OUTDOOR",
+  "Content Creator/Commentatore": "EDITORIA, SCRITTURA E CONTENUTI",
+  "Creator/YouTuber": "EDITORIA, SCRITTURA E CONTENUTI",
+  "Crescita Personale": "SALUTE, BENESSERE E CRESCITA PERSONALE",
+  "Crescita Personale / Atleta": "SALUTE, BENESSERE E CRESCITA PERSONALE",
+  "Crescita Personale / Benessere": "SALUTE, BENESSERE E CRESCITA PERSONALE",
+  "Crescita Personale / Educazione": "SALUTE, BENESSERE E CRESCITA PERSONALE",
+  "Crescita Personale / Motivazione": "SALUTE, BENESSERE E CRESCITA PERSONALE",
+  "Crescita Personale/Filosofia": "SALUTE, BENESSERE E CRESCITA PERSONALE",
+  "Crescita Personale/Imprenditore": "SALUTE, BENESSERE E CRESCITA PERSONALE",
+  "Cucina/Gastronomia": "ALTRI SETTORI SPECIFICI",
+  "Cucina/Intrattenimento": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Cucina/Ristorazione": "ALTRI SETTORI SPECIFICI",
+  "Cultura/Ricerca": "ALTRI SETTORI SPECIFICI",
+  "Diritto / Accademia": "ACCADEMIA E RICERCA",
+  "Diritto/Attivismo": "POLITICA, DIRITTO E ATTIVISMO",
+  "Diritto/Governo": "POLITICA, DIRITTO E ATTIVISMO",
+  "Diritto/Scrittura": "EDITORIA, SCRITTURA E CONTENUTI",
+  "Editoria/Giornalismo": "EDITORIA, SCRITTURA E CONTENUTI",
+  "Educazione/Intrattenimento": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Educazione/Storia": "ACCADEMIA E RICERCA",
+  "Entertainment": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Entertainment/Arte": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Entertainment/Business": "BUSINESS, IMPRENDITORIA E FINANZA",
+  "Entertainment/Cinema": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Entertainment/Comedy": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Entertainment/Commedia": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Entertainment/Imprenditoria": "BUSINESS, IMPRENDITORIA E FINANZA",
+  "Entertainment/Media": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Entertainment/Spettacolo": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Esplorazione/Avventura": "SPORT, ARTI MARZIALI E ATTIVITÀ OUTDOOR",
+  "Esplorazione/Natura": "SPORT, ARTI MARZIALI E ATTIVITÀ OUTDOOR",
+  "Ex-Criminale / Attivista": "POLITICA, DIRITTO E ATTIVISMO",
+  "Ex-Militare/Intelligence": "ALTRI SETTORI SPECIFICI",
+  "Filosofia/Scienza": "ACCADEMIA E RICERCA",
+  "Filosofia/Scienze Sociali": "ACCADEMIA E RICERCA",
+  "Filosofo/Accademico": "ACCADEMIA E RICERCA",
+  "Finanza/Investimenti": "BUSINESS, IMPRENDITORIA E FINANZA",
+  "Fitness/Allenamento": "SALUTE, BENESSERE E CRESCITA PERSONALE",
+  "Fitness/Benessere": "SALUTE, BENESSERE E CRESCITA PERSONALE",
+  "Fitness/Coaching": "SALUTE, BENESSERE E CRESCITA PERSONALE",
+  "Fitness/Imprenditoria": "SALUTE, BENESSERE E CRESCITA PERSONALE",
+  "Fitness/Nutrizione": "SALUTE, BENESSERE E CRESCITA PERSONALE",
+  "Fitness/Salute": "SALUTE, BENESSERE E CRESCITA PERSONALE",
+  "Fitness/Sport": "SALUTE, BENESSERE E CRESCITA PERSONALE",
+  "Forze dell'Ordine / Consulenza": "ALTRI SETTORI SPECIFICI",
+  "Forze dell'Ordine / Riforma Giustizia": "POLITICA, DIRITTO E ATTIVISMO",
+  "Forze dell'Ordine/Attivismo": "POLITICA, DIRITTO E ATTIVISMO",
+  "Forze dell'Ordine/Militare": "ALTRI SETTORI SPECIFICI",
+  "Forze dell'Ordine/Sicurezza": "ALTRI SETTORI SPECIFICI",
+  "Futurista / Autore": "EDITORIA, SCRITTURA E CONTENUTI",
+  "Gaming/Esports": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Gaming/Marketing": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Geopolitica/Analisi Internazionale": "POLITICA, DIRITTO E ATTIVISMO",
+  "Gestione del Territorio/Conservazione": "ALTRI SETTORI SPECIFICI",
+  "Giocatore di Poker Professionista": "SPORT, ARTI MARZIALI E ATTIVITÀ OUTDOOR",
+  "Giornalismo/Attivismo": "EDITORIA, SCRITTURA E CONTENUTI",
+  "Giornalismo/Automobilismo": "EDITORIA, SCRITTURA E CONTENUTI",
+  "Giornalismo/Autore": "EDITORIA, SCRITTURA E CONTENUTI",
+  "Giornalismo/Commentatore": "EDITORIA, SCRITTURA E CONTENUTI",
+  "Giornalismo/Editoria": "EDITORIA, SCRITTURA E CONTENUTI",
+  "Giornalismo/Media": "EDITORIA, SCRITTURA E CONTENUTI",
+  "Giornalismo/Politica": "EDITORIA, SCRITTURA E CONTENUTI",
+  "Giornalismo/Scrittura": "EDITORIA, SCRITTURA E CONTENUTI",
+  "Government/Intelligence": "POLITICA, DIRITTO E ATTIVISMO",
+  "Governo / Difesa": "POLITICA, DIRITTO E ATTIVISMO",
+  "Governo/Militare": "POLITICA, DIRITTO E ATTIVISMO",
+  "Health & Wellness": "SALUTE, BENESSERE E CRESCITA PERSONALE",
+  "Imprenditore / Atleta": "BUSINESS, IMPRENDITORIA E FINANZA",
+  "Imprenditore / Autore": "BUSINESS, IMPRENDITORIA E FINANZA",
+  "Imprenditore / Esploratore": "BUSINESS, IMPRENDITORIA E FINANZA",
+  "Imprenditore / Fitness & Salute": "BUSINESS, IMPRENDITORIA E FINANZA",
+  "Imprenditore / Minatore": "BUSINESS, IMPRENDITORIA E FINANZA",
+  "Imprenditore / Real Estate & Aerospace": "BUSINESS, IMPRENDITORIA E FINANZA",
+  "Imprenditore / Tech": "BUSINESS, IMPRENDITORIA E FINANZA",
+  "Imprenditore/Autore": "BUSINESS, IMPRENDITORIA E FINANZA",
+  "Imprenditore/Media": "BUSINESS, IMPRENDITORIA E FINANZA",
+  "Imprenditoria": "BUSINESS, IMPRENDITORIA E FINANZA",
+  "Imprenditoria / Business": "BUSINESS, IMPRENDITORIA E FINANZA",
+  "Imprenditoria / Fitness": "BUSINESS, IMPRENDITORIA E FINANZA",
+  "Imprenditoria / Immobiliare": "BUSINESS, IMPRENDITORIA E FINANZA",
+  "Imprenditoria / Ristorazione": "BUSINESS, IMPRENDITORIA E FINANZA",
+  "Imprenditoria Sociale / Non-Profit": "ALTRI SETTORI SPECIFICI",
+  "Imprenditoria/Business": "BUSINESS, IMPRENDITORIA E FINANZA",
+  "Imprenditoria/Crescita Personale": "BUSINESS, IMPRENDITORIA E FINANZA",
+  "Imprenditoria/Fitness": "BUSINESS, IMPRENDITORIA E FINANZA",
+  "Imprenditoria/Innovazione": "BUSINESS, IMPRENDITORIA E FINANZA",
+  "Imprenditoria/Investimenti": "BUSINESS, IMPRENDITORIA E FINANZA",
+  "Imprenditoria/Marketing": "BUSINESS, IMPRENDITORIA E FINANZA",
+  "Imprenditoria/Musica": "BUSINESS, IMPRENDITORIA E FINANZA",
+  "Imprenditoria/Outdoor": "BUSINESS, IMPRENDITORIA E FINANZA",
+  "Industria del Caffè": "BUSINESS, IMPRENDITORIA E FINANZA",
+  "Intelligence/Militare": "ALTRI SETTORI SPECIFICI",
+  "Intelligence/Sicurezza Nazionale": "ALTRI SETTORI SPECIFICI",
+  "Intrattenimento": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Intrattenimento / Commedia": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Intrattenimento per adulti": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Intrattenimento/Arte": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Intrattenimento/Attivismo": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Intrattenimento/Attore": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Intrattenimento/Cinema": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Intrattenimento/Comicità": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Intrattenimento/Commedia": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Intrattenimento/Commentatore": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Intrattenimento/Imprenditore": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Intrattenimento/Imprenditoria": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Intrattenimento/Lifestyle": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Intrattenimento/Media": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Intrattenimento/Reality TV": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Intrattenimento/Servizi Specializzati": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Intrattenimento/Spettacolo": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Intrattenimento/Sport": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Istruzione/Filosofia": "ACCADEMIA E RICERCA",
+  "Leadership/Militare": "POLITICA, DIRITTO E ATTIVISMO",
+  "Legal/Policy": "POLITICA, DIRITTO E ATTIVISMO",
+  "Legale/Giustizia": "POLITICA, DIRITTO E ATTIVISMO",
+  "Legge/Giustizia": "POLITICA, DIRITTO E ATTIVISMO",
+  "Letteratura/Scrittura": "EDITORIA, SCRITTURA E CONTENUTI",
+  "Marketing/Business": "BUSINESS, IMPRENDITORIA E FINANZA",
+  "Media & Giustizia Sociale": "POLITICA, DIRITTO E ATTIVISMO",
+  "Media / Intrattenimento": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Media / Outdoor": "SPORT, ARTI MARZIALI E ATTIVITÀ OUTDOOR",
+  "Media/Autore": "EDITORIA, SCRITTURA E CONTENUTI",
+  "Media/Cinema": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Media/Commentary": "EDITORIA, SCRITTURA E CONTENUTI",
+  "Media/Commentatore": "EDITORIA, SCRITTURA E CONTENUTI",
+  "Media/Commentatore Politico": "EDITORIA, SCRITTURA E CONTENUTI",
+  "Media/Content Creator": "EDITORIA, SCRITTURA E CONTENUTI",
+  "Media/Cucina": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Media/Documentaristica": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Media/Editoria": "EDITORIA, SCRITTURA E CONTENUTI",
+  "Media/Educazione": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Media/Entertainment": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Media/Esperto di Sopravvivenza": "SPORT, ARTI MARZIALI E ATTIVITÀ OUTDOOR",
+  "Media/Filosofia": "ACCADEMIA E RICERCA",
+  "Media/Giornalismo": "EDITORIA, SCRITTURA E CONTENUTI",
+  "Media/Imprenditoria": "BUSINESS, IMPRENDITORIA E FINANZA",
+  "Media/Intrattenimento": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Media/Outdoor": "SPORT, ARTI MARZIALI E ATTIVITÀ OUTDOOR",
+  "Media/Podcast": "EDITORIA, SCRITTURA E CONTENUTI",
+  "Media/Podcaster": "EDITORIA, SCRITTURA E CONTENUTI",
+  "Media/Podcasting": "EDITORIA, SCRITTURA E CONTENUTI",
+  "Media/Politica": "POLITICA, DIRITTO E ATTIVISMO",
+  "Media/Produzione": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Media/Psicologia": "ACCADEMIA E RICERCA",
+  "Media/Spettacolo": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Media/Sport": "SPORT, ARTI MARZIALI E ATTIVITÀ OUTDOOR",
+  "Medicina alternativa/Ricerca": "SALUTE, BENESSERE E CRESCITA PERSONALE",
+  "Medicina/Giornalismo": "SALUTE, BENESSERE E CRESCITA PERSONALE",
+  "Medicina/Salute": "SALUTE, BENESSERE E CRESCITA PERSONALE",
+  "Medicina/Sanità": "SALUTE, BENESSERE E CRESCITA PERSONALE",
+  "Medico/Salute Mentale": "SALUTE, BENESSERE E CRESCITA PERSONALE",
+  "Militare / Artista": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Militare / Imprenditoria": "BUSINESS, IMPRENDITORIA E FINANZA",
+  "Militare / Sicurezza": "POLITICA, DIRITTO E ATTIVISMO",
+  "Militare/Attivismo": "POLITICA, DIRITTO E ATTIVISMO",
+  "Militare/Autore": "EDITORIA, SCRITTURA E CONTENUTI",
+  "Militare/Aviazione": "ALTRI SETTORI SPECIFICI",
+  "Militare/Combattimento": "ALTRI SETTORI SPECIFICI",
+  "Militare/Media": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Militare/Sicurezza": "ALTRI SETTORI SPECIFICI",
+  "Militare/Veterano": "ALTRI SETTORI SPECIFICI",
+  "Musica": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Musica/Arte": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Musica/Attivismo": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Musica/Filantropia": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Musica/Intrattenimento": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Musica/Moda": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Musica/Produzione": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Musica/Produzione Musicale": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Musica/Spettacolo": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Natura/Conservazione": "ALTRI SETTORI SPECIFICI",
+  "Outdoor/Adventure": "SPORT, ARTI MARZIALI E ATTIVITÀ OUTDOOR",
+  "Outdoor/Caccia": "SPORT, ARTI MARZIALI E ATTIVITÀ OUTDOOR",
+  "Outdoor/Conservazione": "SPORT, ARTI MARZIALI E ATTIVITÀ OUTDOOR",
+  "Outdoor/Content Creator": "SPORT, ARTI MARZIALI E ATTIVITÀ OUTDOOR",
+  "Outdoor/Natura": "SPORT, ARTI MARZIALI E ATTIVITÀ OUTDOOR",
+  "Podcaster/Autore": "EDITORIA, SCRITTURA E CONTENUTI",
+  "Podcaster/Storico": "EDITORIA, SCRITTURA E CONTENUTI",
+  "Politica/Affari": "POLITICA, DIRITTO E ATTIVISMO",
+  "Politica/Attivismo": "POLITICA, DIRITTO E ATTIVISMO",
+  "Politica/Business": "POLITICA, DIRITTO E ATTIVISMO",
+  "Politica/Commentatore": "POLITICA, DIRITTO E ATTIVISMO",
+  "Politica/Giornalismo": "POLITICA, DIRITTO E ATTIVISMO",
+  "Politica/Governo": "POLITICA, DIRITTO E ATTIVISMO",
+  "Politica/Imprenditoria": "POLITICA, DIRITTO E ATTIVISMO",
+  "Politica/Intrattenimento": "POLITICA, DIRITTO E ATTIVISMO",
+  "Politica/Legge": "POLITICA, DIRITTO E ATTIVISMO",
+  "Politica/Media": "POLITICA, DIRITTO E ATTIVISMO",
+  "Politica/Salute Pubblica": "POLITICA, DIRITTO E ATTIVISMO",
+  "Politica/Servizio Pubblico": "POLITICA, DIRITTO E ATTIVISMO",
+  "Politico/Attivista": "POLITICA, DIRITTO E ATTIVISMO",
+  "Produzione Cinematografica/Televisiva": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Psicologia / Autore": "SALUTE, BENESSERE E CRESCITA PERSONALE",
+  "Psicologia/Autore": "SALUTE, BENESSERE E CRESCITA PERSONALE",
+  "Psicologia/Comportamento Umano": "SALUTE, BENESSERE E CRESCITA PERSONALE",
+  "Religione / Apologetica": "ALTRI SETTORI SPECIFICI",
+  "Ricerca & Sviluppo": "SCIENZA, TECNOLOGIA E INGEGNERIA",
+  "Ricerca Scientifica/Salute": "ACCADEMIA E RICERCA",
+  "Ricerca Storica/Ingegneria": "ACCADEMIA E RICERCA",
+  "Ricerca/Accademia": "ACCADEMIA E RICERCA",
+  "Ricerca/Attivismo": "POLITICA, DIRITTO E ATTIVISMO",
+  "Ricerca/Autore": "EDITORIA, SCRITTURA E CONTENUTI",
+  "Ricerca/Crescita Personale": "SALUTE, BENESSERE E CRESCITA PERSONALE",
+  "Ricerca/Disinformazione": "ALTRI SETTORI SPECIFICI",
+  "Ricerca/Scienza": "ACCADEMIA E RICERCA",
+  "Ricercatore / Content Creator": "EDITORIA, SCRITTURA E CONTENUTI",
+  "Ricercatore / Creatore di Contenuti": "EDITORIA, SCRITTURA E CONTENUTI",
+  "Ricercatore / Personaggio TV": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Ricercatore/Autore (Scienze Alternative/Parapsicologia)": "EDITORIA, SCRITTURA E CONTENUTI",
+  "Ricercatore/Scrittore": "EDITORIA, SCRITTURA E CONTENUTI",
+  "Ristorazione/Cucina": "ALTRI SETTORI SPECIFICI",
+  "Ristorazione/Imprenditoria": "BUSINESS, IMPRENDITORIA E FINANZA",
+  "Ristorazione/Ospitalità": "ALTRI SETTORI SPECIFICI",
+  "Salute & Benessere": "SALUTE, BENESSERE E CRESCITA PERSONALE",
+  "Salute & Benessere / Imprenditoria": "BUSINESS, IMPRENDITORIA E FINANZA",
+  "Salute & Benessere / Media": "SALUTE, BENESSERE E CRESCITA PERSONALE",
+  "Salute & Fitness / Imprenditore": "BUSINESS, IMPRENDITORIA E FINANZA",
+  "Salute Mentale/Psicologia": "SALUTE, BENESSERE E CRESCITA PERSONALE",
+  "Salute e Benessere": "SALUTE, BENESSERE E CRESCITA PERSONALE",
+  "Salute e Media": "SALUTE, BENESSERE E CRESCITA PERSONALE",
+  "Salute e Nutrizione": "SALUTE, BENESSERE E CRESCITA PERSONALE",
+  "Salute/Benessere": "SALUTE, BENESSERE E CRESCITA PERSONALE",
+  "Salute/Medicina": "SALUTE, BENESSERE E CRESCITA PERSONALE",
+  "Salute/Nutrizione": "SALUTE, BENESSERE E CRESCITA PERSONALE",
+  "Sanità/Medicina": "SALUTE, BENESSERE E CRESCITA PERSONALE",
+  "Science/Tech & Finance": "BUSINESS, IMPRENDITORIA E FINANZA",
+  "Scienza/Accademia": "ACCADEMIA E RICERCA",
+  "Scienza/Comunicazione": "EDITORIA, SCRITTURA E CONTENUTI",
+  "Scienza/Conservazione": "ALTRI SETTORI SPECIFICI",
+  "Scienza/Divulgazione": "EDITORIA, SCRITTURA E CONTENUTI",
+  "Scienza/Editoria": "EDITORIA, SCRITTURA E CONTENUTI",
+  "Scienza/Educazione": "ACCADEMIA E RICERCA",
+  "Scienza/Giornalismo": "EDITORIA, SCRITTURA E CONTENUTI",
+  "Scienza/Ingegneria": "SCIENZA, TECNOLOGIA E INGEGNERIA",
+  "Scienza/Media": "EDITORIA, SCRITTURA E CONTENUTI",
+  "Scienza/Medicina": "SALUTE, BENESSERE E CRESCITA PERSONALE",
+  "Scienza/Natura": "ALTRI SETTORI SPECIFICI",
+  "Scienza/Ricerca": "ACCADEMIA E RICERCA",
+  "Scienza/Salute": "SALUTE, BENESSERE E CRESCITA PERSONALE",
+  "Scienza/Spiritualità": "ALTRI SETTORI SPECIFICI",
+  "Scienze Motorie / Nutrizione": "SALUTE, BENESSERE E CRESCITA PERSONALE",
+  "Scienziato/Ricercatore": "ACCADEMIA E RICERCA",
+  "Scrittore / Esperto di Robotica": "EDITORIA, SCRITTURA E CONTENUTI",
+  "Scrittore / Oratore": "EDITORIA, SCRITTURA E CONTENUTI",
+  "Scrittore/Autore": "EDITORIA, SCRITTURA E CONTENUTI",
+  "Scrittore/Editore": "EDITORIA, SCRITTURA E CONTENUTI",
+  "Scrittore/Giornalista": "EDITORIA, SCRITTURA E CONTENUTI",
+  "Scrittore/Media": "EDITORIA, SCRITTURA E CONTENUTI",
+  "Scrittore/Storico": "EDITORIA, SCRITTURA E CONTENUTI",
+  "Scrittura/Editoria": "EDITORIA, SCRITTURA E CONTENUTI",
+  "Scrittura/Giornalismo": "EDITORIA, SCRITTURA E CONTENUTI",
+  "Sicurezza/Difesa": "POLITICA, DIRITTO E ATTIVISMO",
+  "Sicurezza/Intelligence": "POLITICA, DIRITTO E ATTIVISMO",
+  "Sicurezza/Protezione": "POLITICA, DIRITTO E ATTIVISMO",
+  "Spettacolo/Intrattenimento": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Spettacolo/Media": "ARTE, INTRATTENIMENTO E MEDIA",
+  "Spiritualità/Benessere": "SALUTE, BENESSERE E CRESCITA PERSONALE",
+  "Sport": "SPORT, ARTI MARZIALI E ATTIVITÀ OUTDOOR",
+  "Sport / Arti Marziali": "SPORT, ARTI MARZIALI E ATTIVITÀ OUTDOOR",
+  "Sport / Fitness": "SPORT, ARTI MARZIALI E ATTIVITÀ OUTDOOR",
+  "Sport / Intrattenimento": "SPORT, ARTI MARZIALI E ATTIVITÀ OUTDOOR",
+  "Sport/Arti Marziali": "SPORT, ARTI MARZIALI E ATTIVITÀ OUTDOOR",
+  "Sport/Arti Marziali Miste": "SPORT, ARTI MARZIALI E ATTIVITÀ OUTDOOR",
+  "Sport/Atleta": "SPORT, ARTI MARZIALI E ATTIVITÀ OUTDOOR",
+  "Sport/Atleti": "SPORT, ARTI MARZIALI E ATTIVITÀ OUTDOOR",
+  "Sport/Attivismo": "SPORT, ARTI MARZIALI E ATTIVITÀ OUTDOOR",
+  "Sport/Avventura": "SPORT, ARTI MARZIALI E ATTIVITÀ OUTDOOR",
+  "Sport/Coaching": "SPORT, ARTI MARZIALI E ATTIVITÀ OUTDOOR",
+  "Sport/Combattimento": "SPORT, ARTI MARZIALI E ATTIVITÀ OUTDOOR",
+  "Sport/Entertainment": "SPORT, ARTI MARZIALI E ATTIVITÀ OUTDOOR",
+  "Sport/Fitness": "SPORT, ARTI MARZIALI E ATTIVITÀ OUTDOOR",
+  "Sport/Formazione": "SPORT, ARTI MARZIALI E ATTIVITÀ OUTDOOR",
+  "Sport/Giochi": "SPORT, ARTI MARZIALI E ATTIVITÀ OUTDOOR",
+  "Sport/Imprenditore": "BUSINESS, IMPRENDITORIA E FINANZA",
+  "Sport/Intrattenimento": "SPORT, ARTI MARZIALI E ATTIVITÀ OUTDOOR",
+  "Sport/Media": "SPORT, ARTI MARZIALI E ATTIVITÀ OUTDOOR",
+  "Sport/Outdoor": "SPORT, ARTI MARZIALI E ATTIVITÀ OUTDOOR",
+  "Sport/Politica": "SPORT, ARTI MARZIALI E ATTIVITÀ OUTDOOR",
+  "Sport/Regolamentazione": "SPORT, ARTI MARZIALI E ATTIVITÀ OUTDOOR",
+  "Sports/Combattimento": "SPORT, ARTI MARZIALI E ATTIVITÀ OUTDOOR",
+  "Survival/Avventura": "SPORT, ARTI MARZIALI E ATTIVITÀ OUTDOOR",
+  "Survival/Intrattenimento": "SPORT, ARTI MARZIALI E ATTIVITÀ OUTDOOR",
+  "Tech/IT": "SCIENZA, TECNOLOGIA E INGEGNERIA",
+  "Tech/Imprenditoria & Autore/Speaker": "BUSINESS, IMPRENDITORIA E FINANZA",
+  "Ufologia/Scienza": "ACCADEMIA E RICERCA",
+  "Videogiochi": "ARTE, INTRATTENIMENTO E MEDIA"
+}
